@@ -1,95 +1,53 @@
 # US and Soviet Occupation Flyers in Korea (1945)
-**Author:** Gen. John R. Hodge (US) / Gen. Ivan Mikhailovich Chistiakov (Soviet)
-**Week:** 5
-**Type:** Primary Source
+**Author:** Gen. John R. Hodge (US) / Gen. Douglas MacArthur (US) / Gen. Ivan Mikhailovich Chistiakov (Soviet)
+**Week:** 5 | **Type:** Primary Source
 **Case Study:** Korea
-**Lecture Context:** Getting Started / Competing Visions of Liberation and Occupation
-**Pages assigned:** Full document (3 pages)
-**Date processed:** 2026-03-20
-
----
+**Pages:** Full document (3 pp.)
 
 ## Summary
 
-The US and Soviet occupation flyers distributed in Korea in August–September 1945 offer a rare opportunity for direct rhetorical comparison of the two competing visions of liberation that would define the Cold War division of the peninsula. Read alongside SWNCC 176 and Chang's "Independence without Liberation," they reveal how occupation ideology was packaged for popular consumption — and how differently each power chose to construct its relationship with the Korean people.
+These three short documents — the Hodge leaflet (Sept. 2, 1945), MacArthur's Proclamation No. 2 (Sept. 7, 1945), and the Chistiakov flyer (Aug. 15, 1945) — offer a rare direct rhetorical comparison between the two competing occupation regimes that would permanently divide Korea. Their analytical value lies precisely in their brevity: both powers had to compress their occupation ideology into a few paragraphs legible to a mass audience, and the choices each made reveal what each considered most important to communicate first.
 
-The US materials consist of two documents. The first is a leaflet dropped in 300,000 copies over southern Korea from September 1-5, 1945, signed by Gen. John R. Hodge. Its tone is paternalistic and cautionary: Koreans are warned against "hasty and ill-advised acts" and told that "full compliance with these instructions will hasten the rehabilitation of Korea and speed the day when the Koreans may once again enjoy life under a more democratic rule." The framing positions Koreans as passive recipients of American-administered democracy — subjects of liberation, not agents of it. The second US document, Proclamation No. 2 (September 7, 1945, signed by Gen. MacArthur), goes further: it threatens the death penalty for violations of occupation authority. The shift from Hodge's cautionary paternalism to MacArthur's explicit coercive threat within a week reveals the tension at the heart of US occupation ideology — liberation rhetoric backed by the threat of lethal force.
+The US materials move from paternalism to coercion within five days. Hodge's leaflet positions Koreans as passive recipients of American-administered liberation: "full compliance with these instructions will hasten the rehabilitation of Korea and speed the day when the Koreans may once again enjoy life under a more democratic rule." Democracy is a future reward for compliant behavior — not an immediate right. The warning against "hasty and ill-advised acts" is directed at precisely the kind of grassroots mobilization the KPR was already organizing (documented by Chang). MacArthur's Proclamation No. 2, issued five days later, strips away the benevolent framing entirely: violations of occupation authority are punishable by death "or such other punishment as the Court may determine." The paternalistic hand of Hodge becomes, in MacArthur's document, an occupier's fist.
 
-The Soviet flyer, dated August 15, 1945, and signed by Gen. Ivan Mikhailovich Chistiakov, commander of the 25th Army, takes a radically different rhetorical approach. It opens with celebration: "Korea has become a free state." Rather than warning against disorder, it addresses Koreans as agents: "The Korean people must become the creator of its own happiness." Crucially, the Soviet flyer addresses distinct social groups separately — workers, business owners, and citizens — rather than speaking to an undifferentiated "Korean people." This populist address to class constituencies mirrors the language of labor emancipation and connects to the factory seizures and land appropriations that Chang documents in the same period.
+The Soviet flyer, issued three weeks earlier on the day of Japan's surrender, takes the opposite rhetorical approach. It opens with declaration ("Korea has become a free state"), addresses Koreans as historical agents ("The Korean people must become the creator of its own happiness"), and specifically calls out workers, business owners, and citizens as separate constituencies — a class-conscious structure consistent with the leftist political organizing the Soviets were supporting north of the 38th parallel. The Soviet guarantee is not compliance-contingent: liberation is already achieved, and "your fate depends only on yourselves."
 
-The rhetorical contrast maps onto the political strategies each power pursued. The US dissolved the KPR (SWNCC 176, Section 5g) and warned against "hasty acts" — i.e., the very grassroots democratic mobilization that the Soviet flyer celebrated. The Soviet flyer's celebratory, emancipatory register was consistent with Soviet support for the Korean Workers' Party and the leftist political structures being built in the north. Neither flyer was honest about the limits of liberation — the Soviet north was also an occupation with imposed political structures — but the rhetorical packages encoded fundamentally different relationships between the occupier and the occupied.
+The contrast is ideologically loaded but should not be taken at face value. Neither power was delivering authentic Korean self-determination. The Soviet north also imposed external political structures, elevating Kim Il-sung over other Korean leaders. As Fradera's "dangerous symmetries" framework suggests (W1), opposite rhetorics can encode the same underlying structure of occupation. The flyers are most valuable not as evidence of what each power did, but as evidence of how each power wanted to be seen — and how rhetorical framing shaped the political possibilities that Koreans in each zone were permitted to pursue.
 
-For the midterm, these flyers are essential for understanding competing Cold War visions of liberation and how rhetorical framing shaped the political possibilities available to Koreans on either side of the 38th parallel.
+Connects to the Week 5 discussion question: what results did differing strategies produce? The US flyer's compliance-first logic set up the confrontation with the KPR documented in Chang. The Soviet flyer's emancipatory language provided cover for a different but equally controlled political settlement.
 
----
+## Key Quotes
 
-## Key Quotes Table
+| ☐ | Quote | Source | Significance |
+|---|-------|--------|-------------|
+| ☐ | "The armed forces of the United States will soon arrive in Korea for the purpose of receiving the surrender of the Japanese forces, enforcing the terms of surrender, and insuring the orderly administration and rehabilitation of the country." | Hodge flyer, Sept. 2, 1945 | Leads with surrender/enforcement framing, not liberation — contrasts with Soviet "free state" opening |
+| ☐ | "These missions will be carried out with a firm hand, but with a hand that will be guided by a nation whose long heritage of democracy has fostered a kindly feeling for peoples less fortunate." | Hodge flyer, Sept. 2, 1945 | "Peoples less fortunate" — civilizationist paternalism; connects to Kramer's W2 analysis of American imperial ideology |
+| ☐ | "Hasty and ill-advised acts on the part of its residents will only result in unnecessary loss of life, desolation of your beautiful country and delay in its rehabilitation." | Hodge flyer, Sept. 2, 1945 | Warning against grassroots mobilization — directed at KPR organizing documented by Chang; "hasty acts" = Korean political agency |
+| ☐ | "Full compliance with these instructions will hasten the rehabilitation of Korea and speed the day when the Koreans may once again enjoy life under a more democratic rule." | Hodge flyer, Sept. 2, 1945 | Democracy as conditional future reward for compliance — Koreans are subjects of liberation, not agents; core paternalism quote |
+| ☐ | "Any Person Who: Violates the provision of the Instrument of Surrender, or any proclamation, order, or directive given under the authority of the Commander-in-Chief . . . shall, upon conviction by a military Occupation Court, suffer death or such other punishment as the Court may determine." | MacArthur, Proclamation No. 2, Sept. 7, 1945 | Coercive underbelly of liberation rhetoric — death penalty for noncompliance, issued 5 days after Hodge's "kindly hand" framing |
+| ☐ | "Korea has become a free state, but this is only the first chapter in the history of new Korea." | Chistiakov flyer, Aug. 15, 1945 | Liberation declared present tense, not future conditional — the opposite rhetorical move from Hodge's "speed the day when" |
+| ☐ | "Citizens of Korea! Remember that happiness lies in your hands. You obtained freedom and independence, and now your fate depends only on yourselves." | Chistiakov flyer, Aug. 15, 1945 | Agency language — Koreans as historical subjects; contrasts with US compliance framing |
+| ☐ | "The Korean people must become the creator of its own happiness." | Chistiakov flyer, Aug. 15, 1945 | The core Soviet framing — Koreans as agents, not recipients; rhetorical baseline for Soviet occupation legitimacy |
+| ☐ | "Owners of business, factories and workshops, traders and entrepreneurs! Restore the business and factories that have been destroyed by the Japanese! Open new productive enterprises!" | Chistiakov flyer, Aug. 15, 1945 | Class-addressed rhetoric — separately addresses distinct social constituencies; connects to leftist political organizing the Soviets were sponsoring |
+| ☐ | "The Command of the Soviet army guarantees the protection of the properties of all Korean enterprises and will give comprehensive assistance for safeguarding the normal functioning of these enterprises." | Chistiakov flyer, Aug. 15, 1945 | Property protection guarantee — notably includes business owners/entrepreneurs, not just workers; Soviet strategy of building broad coalition north of 38th parallel |
 
-| Verified | Quote | Page | Significance |
-|----------|-------|------|-------------|
-| ☐ | "full compliance with these instructions will hasten the rehabilitation of Korea and speed the day when the Koreans may once again enjoy life under a more democratic rule." | US Hodge flyer | Paternalistic framing — compliance as path to democracy; Koreans are subjects of liberation, not agents |
-| ☐ | "hasty and ill-advised acts" | US Hodge flyer | The warning against grassroots political mobilization — connects to SWNCC 176 Section 5g prohibition on KPR |
-| ☐ | [Death penalty threat for violations of occupation authority] | US MacArthur Proclamation No. 2 | Coercive underside of liberation rhetoric — "comply or die" within one week of Hodge's cautionary tone |
-| ☐ | "Korea has become a free state." | Soviet Chistiakov flyer | Celebratory opening — emancipatory declaration, not cautionary warning; contrasts with US tone immediately |
-| ☐ | "The Korean people must become the creator of its own happiness." | Soviet Chistiakov flyer | Agency language — Koreans as historical agents, not recipients of imposed liberation; contrasts with US "compliance" framing |
-| ☐ | [Address to workers separately from business owners and citizens] | Soviet Chistiakov flyer | Class-conscious address — appeals to distinct social constituencies; mirrors KPR's labor-based popular politics that US dissolved |
-| ☐ | [Signed by Gen. John R. Hodge, Commanding General, US Army Forces in Korea] | US Hodge flyer | Institutional authority — military commander as liberator; connects to Hodge's later descriptions of Koreans as "childish" (Chang, p. 90) |
-| ☐ | [Signed by Gen. Ivan Mikhailovich Chistiakov, Commander 25th Army] | Soviet flyer | Soviet military authority — same occupation structure, different rhetorical register |
+## Key Terms
+- **Paternalism**: The US flyer's stance — Koreans as "peoples less fortunate" who must comply with US authority to earn democracy. Connects to Hodge's later characterization of Koreans as "childish" and "highly volatile" (Chang, p. 90) and to Kramer's analysis of civilizationist logic in American empire (W2).
+- **Compliance rhetoric**: The US framing that positions democratic rights as contingent on Korean submission to occupation authority. Operationalized through SWNCC 176 Section 5g (dissolution of KPR).
+- **Agency rhetoric**: The Soviet framing that positions Koreans as historical actors already in possession of liberation. Rhetorical cover for a different but equally controlled occupation settlement.
+- **Proclamation No. 2 (MacArthur, Sept. 7, 1945)**: The coercive follow-up to Hodge's benevolent framing — death penalty for violations of occupation authority. Reveals that "firm hand" in the Hodge flyer was not metaphorical.
+- **38th parallel**: The dividing line that made these flyers relevant to different Korean populations. Not a Korean choice — a US-Soviet agreement; the flyers were the public face of an imposed division.
+- **Dangerous symmetries (Fradera)**: The structural similarity between US and Soviet occupations beneath their opposed rhetorics. Both were external military powers displacing Korean political agency while claiming to liberate Korea.
 
----
+## Flashcards
+FRONT: US occupation flyer (Hodge, Sept. 2, 1945) — core message
+BACK: Paternalistic and compliance-focused. Democracy is a future reward conditional on Korean submission to occupation authority. "Full compliance with these instructions will hasten... the day when the Koreans may once again enjoy life under a more democratic rule." Backed within 5 days by MacArthur's death-penalty proclamation. | W5PS | Connects to: SWNCC 176 §5g (dissolves KPR), Chang pp. 89-90 (Hodge's paternalism in internal communications)
 
-## Key Terms & Concepts
-
-- **Rhetorical liberation**: The use of emancipatory, self-determination language to legitimate occupation authority — both US and Soviet flyers claim to liberate Korea while establishing military occupation. The gap between rhetoric and reality is Chang's analytical focus.
-- **Paternalism**: The US flyer's stance — treating Koreans as wards requiring guidance toward democracy rather than as agents capable of self-government. Connects to Hodge's later characterization of Koreans as "childish" (Chang, p. 90) and the broader civilizationist ideology Kramer (W2) identifies in American imperial thought.
-- **Compliance vs. agency**: The central rhetorical contrast between US and Soviet flyers. US: comply with authorities to earn democracy. Soviet: be the creator of your own happiness. Neither framing was fully honest about occupation realities.
-- **38th parallel**: The division line that made the two flyers relevant to different populations — US flyer for the south, Soviet flyer for the north. The flyers were distributed in a divided country that had been unified under Japanese colonialism; the division was itself a product of US-Soviet agreement, not Korean choice.
-- **Proclamation No. 2 (MacArthur, Sept. 7, 1945)**: The second US occupation declaration, threatening the death penalty for violations. Revealed the coercive foundation beneath the liberationist rhetoric of the Hodge flyer.
-- **Gen. Chistiakov**: Commander of Soviet 25th Army in northern Korea. The Soviet occupation north of the 38th parallel pursued similar displacement of existing political structures — supporting Kim Il-sung's rise over other Korean political actors — but packaged in more emancipatory rhetoric.
-
----
-
-## Cross-Reading Connections
-
-- **Connects to Chang, "Independence without Liberation" (W5)**: Chang documents the political context in which these flyers circulated — the KPR's grassroots organization, factory seizures, land appropriations. The US flyer's warning against "hasty and ill-advised acts" is directed precisely at the mobilization Chang describes. Hodge's later description of Koreans as "childish" and "highly volatile" (Chang, p. 90) expresses the same paternalism in internal communications that the flyer performs in public.
-
-- **Connects to SWNCC 176 (Korea directive, W5)**: Section 5g's prohibition on recognizing any Korean provisional government is the policy backdrop for the US flyer's cautionary tone. The flyer tells Koreans to comply; SWNCC 176 tells US commanders to dissolve the KPR. Together they form a coherent suppression strategy — rhetorical and operational.
-
-- **Connects to Atlantic Charter (W4)**: The Atlantic Charter declared the right of peoples to choose their form of government. The Soviet flyer invokes this spirit — "Korea has become a free state," Koreans must "become the creator of its own happiness." The US flyer ignores this language entirely, focusing instead on compliance. The contrast shows how the same Cold War moment produced divergent appropriations of the self-determination ideal.
-
-- **Connects to Fradera (W1, "Reading Imperial Transitions")**: Fradera's concept of "dangerous symmetries" — the structural similarities between rival imperial formations — is visible in the flyers. US and Soviet occupations used opposite rhetoric but shared the same basic structure: military occupation, displacement of Korean political agency, claims to liberation. The flyers' surface contrast conceals a deeper symmetry in imperial logic.
-
-- **Connects to Mabini (W3) and Constantino (W3, "Miseducation of the Filipino")**: The US flyer's paternalism — Koreans must be guided toward democracy through compliance — echoes the American colonial logic in the Philippines that Mabini resisted. Just as Filipino nationalists were told to wait for the "right time" for independence, Koreans are told to wait for democracy through compliance. Constantino's analysis of how colonial ideology shapes subjects' understanding of their own liberation applies to the flyer's rhetorical strategy.
-
----
-
-## Practice Questions
-
-**3-Word Connection Drills (Part 1 practice):**
-
-*US flyer / Soviet flyer / Atlantic Charter*
-The US and Soviet occupation flyers embody competing visions of Korean liberation rooted in opposite appropriations of the Atlantic Charter's self-determination promise. The Soviet flyer declared Korea "a free state" and addressed workers as historical agents; the US flyer warned against "hasty acts" and promised democracy through compliance. Both invoked liberation while establishing military occupation — revealing how self-determination rhetoric could serve opposed ideological programs.
-
-*US flyer / Chang / Paternalism*
-The US occupation flyer's warning against "hasty and ill-advised acts" encodes the paternalism that Chang traces throughout the occupation: Koreans were "childish" (Hodge, p. 90), too immature for immediate self-government. This paternalism authorized dissolving the KPR (SWNCC 176, Section 5g) — because Koreans' own democratic choices were deemed "hasty." The flyer packages that political logic for public consumption.
-
-*Soviet flyer / Fradera / Dangerous symmetries*
-Fradera's "dangerous symmetries" between rival imperial formations appears in the occupation flyers: US and Soviet rhetoric is opposite (compliance vs. agency, caution vs. celebration), but both are distributed by military occupiers who have displaced Korean political agency. The Soviet flyer's emancipatory language masked an occupation that also imposed external political structures — Kim Il-sung over other Korean leaders. The rhetorical asymmetry conceals structural symmetry.
-
-**Essay Questions (Part 2 practice):**
-
-1. The US and Soviet occupation flyers use strikingly different rhetorical registers to address the Korean people in 1945. Using the flyers alongside Chang's "Independence without Liberation" and SWNCC 176, analyze what each power's rhetorical approach reveals about their occupation strategies and their relationship to Korean political agency. What are the limits of rhetorical analysis as a tool for understanding occupation?
-
-2. Both the Atlantic Charter (W4) and the Soviet occupation flyer invoke the language of self-determination and national liberation. Using these primary sources alongside Chang and SWNCC 176, assess how self-determination rhetoric functioned in the US and Soviet approaches to Korea. Was there a meaningful difference, or does Fradera's "dangerous symmetries" framework apply?
-
-**Flashcard Prompts:**
-```
-FRONT: US occupation flyer (Hodge, Sept. 1945) — core message
-BACK: Warned Koreans against "hasty and ill-advised acts"; promised democracy through compliance. Paternalistic framing — Koreans as passive recipients. Backed by MacArthur Proclamation No. 2 threatening death penalty. Source: US/Soviet flyers PDF. Connects to: SWNCC 176 Section 5g, Chang's analysis of Hodge's paternalism.
-
-FRONT: Soviet occupation flyer (Chistiakov, Aug. 1945) — core message
-BACK: "Korea has become a free state." "The Korean people must become the creator of its own happiness." Emancipatory, agency-affirming rhetoric; addresses workers, business owners, citizens separately (class-conscious). Source: US/Soviet flyers PDF. Connects to: Chang (labor politics), Atlantic Charter (self-determination), Fradera (dangerous symmetries).
+FRONT: Soviet occupation flyer (Chistiakov, Aug. 15, 1945) — core message
+BACK: Emancipatory and agency-affirming. Liberation declared present tense: "Korea has become a free state." "The Korean people must become the creator of its own happiness." Class-conscious — addresses workers, business owners, and citizens separately. | W5PS | Connects to: Chang (labor politics, KPR), Atlantic Charter (self-determination), Fradera W1 (dangerous symmetries)
 
 FRONT: Rhetorical contrast — US vs. Soviet Korea flyers
-BACK: US: compliance → democracy (paternalistic, cautionary, coercive). Soviet: liberation already achieved, agency is yours (emancipatory, celebratory, class-addressed). Same occupation structure, opposite public framing. Neither fully honest about limits of liberation. Significance: encodes the political logic each power would pursue — US dissolves KPR, Soviet supports leftist structures. Source: Flyers PDF.
-```
+BACK: US: compliance → democracy (future conditional, paternalistic, ultimately coercive). Soviet: liberation already achieved, agency is yours (present tense, emancipatory, class-addressed). Same occupation structure — external military power, displaced Korean political agency — opposite public framing. Neither was delivering authentic self-determination. | W5PS
+
+FRONT: MacArthur Proclamation No. 2 (Sept. 7, 1945)
+BACK: Issued 5 days after Hodge's "kindly hand" flyer. Threatens death penalty for violations of occupation authority. Reveals the coercive foundation beneath liberation rhetoric — the "firm hand" in the Hodge flyer was not metaphorical. Part of the "slender file" of documents given to US Civil Affairs officers arriving Sept. 9, 1945 with 25,000 troops. | W5PS
